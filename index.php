@@ -21,9 +21,9 @@
 
     <div class="col-lg-12">
         <div class="container">
-            <img src="img1.jpg" alt="">
-            <img src="img2.jpg" alt="">
-            <img src="img3.jpg" alt="">
+            <img src="assets/img/img1.jpg" alt="image-1 ">
+            <img src="assets/img/img2.jpg" alt="image-2">
+            <img src="assets/img/img3.jpg" alt="image-3">
         </div>
     </div>
 
